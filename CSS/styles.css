@@ -1,0 +1,20 @@
+        header {
+            background-color: black;
+            color: white;
+        }
+
+        #whippingcream {
+          color: #f0c87e;
+          }
+        .chocolate {
+            color: #654321;
+        }
+
+        li{
+            list-style: none; 
+        }
+
+        footer {
+            background-color: black;
+            color: white;
+        }
